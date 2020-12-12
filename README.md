@@ -25,7 +25,7 @@ We are updating the project through Github. You can find the link for the free v
 
 **https://github.com/VeryEasyCodeReading/FARMING-BOTPOKEMMO**
 
-We can provide support on Discord for now since the [**Wiki**](https://github.com/VeryEasyCodeReading/FARMING-BOTPOKEMMO/wiki) isn't finished yet.
+We can provide support on [**Discord**](https://discord.gg/vm5QQZ8bFG) for now since the [**Wiki**](https://github.com/VeryEasyCodeReading/FARMING-BOTPOKEMMO/wiki) isn't finished yet.
 
 A video presentation is in progress so we can show you all the potential.
 
