@@ -1,4 +1,4 @@
-FARMING-BOTPOKEMMO
+#FARMING-BOTPOKEMMO
 
 Hello everyone.
 Me and a friend have been working on a bot for POKEMMO for some weeks now.
@@ -23,9 +23,9 @@ The premium version have way more automatic features (working via checkboxs) and
 
 We are updating the project through Github. You can find the link for the free version right here :
 
-https://github.com/VeryEasyCodeReading/FARMING-BOTPOKEMMO
+**https://github.com/VeryEasyCodeReading/FARMING-BOTPOKEMMO**
 
-We can provide support on Discord for now since the Wiki isn't finished yet.
+We can provide support on Discord for now since the [**Wiki**](https://github.com/VeryEasyCodeReading/FARMING-BOTPOKEMMO/wiki) isn't finished yet.
 
 A video presentation is in progress so we can show you all the potential.
 
