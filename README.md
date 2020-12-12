@@ -4,11 +4,11 @@ Hello everyone.
 Me and a friend have been working on a bot for POKEMMO for some weeks now.
 
 Here is a list of the core features :
-Auto XP farming with auto healing
 
-  Auto EVs farming with auto healing
-  Auto fishing (Safari Land)
-  Auto money farming
+* Auto XP farming with auto healing
+*   Auto EVs farming with auto healing
+ *  Auto fishing (Safari Land)
+ *  Auto money farming
 
 Now lets see some pictures of the UI :
 
