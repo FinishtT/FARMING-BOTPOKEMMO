@@ -25,7 +25,7 @@ The premium version have way more automatic features (working via checkboxs) and
 
 We are updating the project through Github. You can find the link for the free version right here :
 
-[url]https://github.com/VeryEasyCodeReading/FARMING-BOTPOKEMMO[/url]
+https://github.com/VeryEasyCodeReading/FARMING-BOTPOKEMMO
 
 We can provide support on Discord for now since the Wiki isn't finished yet.
 
