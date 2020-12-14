@@ -22,8 +22,7 @@ Currently working on two versions of the project (free and premium)
 The premium version have way more automatic features (working via checkboxs) and scripts - including randomized pathes in order to avoid getting caught. This bot also provide insane money farm capabilities thanks to optimized routes.
 
 We are updating the project through Github. You can find the link for the free version right here :
-
-**https://github.com/VeryEasyCodeReading/FARMING-BOTPOKEMMO**
+[**https://github.com/VeryEasyCodeReading/FARMING-BOTPOKEMMO/releases**]
 
 We can provide support on [**Discord**](https://discord.gg/vm5QQZ8bFG) for now since the [**Wiki**](https://github.com/VeryEasyCodeReading/FARMING-BOTPOKEMMO/wiki) isn't finished yet.
 
