@@ -14,7 +14,7 @@ Now lets see some pictures of the UI :
 
 ![IMG](https://i.imgur.com/j6tIRb9.png)
 ![IMG](https://i.imgur.com/fxyEdym.png)
-![IMG](https://i.imgur.com/gzDORgk.png)
+![IMG](https://i.imgur.com/20z7Q2K.png)
 ![IMG](https://i.imgur.com/JB0PuYH.png)
 
 Currently working on two versions of the project (free and premium)
