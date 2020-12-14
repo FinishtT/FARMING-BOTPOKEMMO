@@ -15,6 +15,7 @@ Now lets see some pictures of the UI :
 ![IMG](https://i.imgur.com/j6tIRb9.png)
 ![IMG](https://i.imgur.com/fxyEdym.png)
 ![IMG](https://camo.githubusercontent.com/66baa4390e604f6548cd3913a0608eb869fdfb20c89e989ec434963cb89c5ca9/68747470733a2f2f692e696d6775722e636f6d2f677a444f52676b2e706e67)
+![IMG](https://i.imgur.com/N1SyrDu.png)
 
 Currently working on two versions of the project (free and premium)
 
