@@ -3,6 +3,7 @@
 ## Intro
 
 Hello everyone.
+
 Me and a friend have been working on a bot for POKEMMO for some weeks now.
 
 Here is a list of the core features :
