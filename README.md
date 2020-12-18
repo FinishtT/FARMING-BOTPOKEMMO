@@ -1,4 +1,6 @@
-FARMING-BOTPOKEMMO
+# FARMING-BOTPOKEMMO
+***
+## Intro
 
 Hello everyone.
 Me and a friend have been working on a bot for POKEMMO for some weeks now.
